@@ -21,4 +21,6 @@ In the finding of my analysis, I was able to observe the different type of user 
 
 ## Insights
 
-I stumbled upon many dead-end analysis during the analysis process, but I manage to get back on track and found some valuable insight from this dataset. This dataset give us the advantage of user's behavior that can help make business decision that bases on data driven methodologies. Only if I have more data from the prior and after months so that I can conduct and pre and post evaluation to compares for the correlation and changes bases on user's behaviors. 
+
+## Key Insights For Presentation
+The key focus oy my presentation is focus on the different duration time rides user used throughout the week. First, I present sample of all numerical correlation using heatmap of the data. This will give quick visual insight for reader to understand the dataset. I follow up with the bar graph slides viewing of the two different set of of data of member and non member user's type with the weekday on the x axis and duration frequency on the y axis. Then, I introduce another heatmap plot with color map guided as a multivariate plot that present the same measurement as the previous chart but with the average duration time instead of frequencies. Finally, I final the presentation with the slide of geographic location coordinates plot of the given longtitude and latitude from the dataset.
